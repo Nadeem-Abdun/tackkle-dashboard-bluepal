@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/tackkle-dashboard-bluepal/static/js/main.8d951764.js",
+    "main.js": "/tackkle-dashboard-bluepal/static/js/main.1a80633c.js",
     "static/js/787.556bafd1.chunk.js": "/tackkle-dashboard-bluepal/static/js/787.556bafd1.chunk.js",
     "static/media/Tackkle_chart.jpg": "/tackkle-dashboard-bluepal/static/media/Tackkle_chart.cedd03fc0dd365bfad03.jpg",
     "index.html": "/tackkle-dashboard-bluepal/index.html",
-    "main.8d951764.js.map": "/tackkle-dashboard-bluepal/static/js/main.8d951764.js.map",
+    "main.1a80633c.js.map": "/tackkle-dashboard-bluepal/static/js/main.1a80633c.js.map",
     "787.556bafd1.chunk.js.map": "/tackkle-dashboard-bluepal/static/js/787.556bafd1.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.8d951764.js"
+    "static/js/main.1a80633c.js"
   ]
 }
